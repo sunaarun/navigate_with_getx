@@ -1,6 +1,10 @@
 # navigate_with_getx
 
-A new Flutter project.
+A new Flutter project that uses **Getx** package to navigate between Routes.
+You can watch the episode on **YouTube** : https://youtu.be/qDcuOu3qADc
+
+
+![thumb](https://user-images.githubusercontent.com/36349126/182934780-ee1ca80a-2f5a-4342-839b-a50491c6daf7.png)
 
 ## Getting Started
 
